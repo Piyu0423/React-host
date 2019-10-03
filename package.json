@@ -1,5 +1,5 @@
-{ "homepage": "https://piyu0423.github.io/Piyumika.github.io/",
-  "name": "Piyumika.github.io",
+{ "homepage": "https://piyu0423.github.io/React-host",
+  "name": "React-host",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,7 +16,7 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": "Piyumika.github.io"
+    "extends": "React-host"
   },
   "browserslist": {
     "production": [
