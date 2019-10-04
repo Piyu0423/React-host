@@ -20,6 +20,7 @@ function App() {
           <Link to="/">Home</Link>
         </li>
         <li>
+          <Link to={process.env.PUBLIC_URL +"/users"}>Users</Link>
         </li>
         <li>
           <Link to="/contact">Contact</Link>

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://piyu0423.github.io/React-host/static/css/main.2680dfa7.chunk.css",
-    "main.js": "https://piyu0423.github.io/React-host/static/js/main.173bc09f.chunk.js",
-    "main.js.map": "https://piyu0423.github.io/React-host/static/js/main.173bc09f.chunk.js.map",
+    "main.js": "https://piyu0423.github.io/React-host/static/js/main.c185e228.chunk.js",
+    "main.js.map": "https://piyu0423.github.io/React-host/static/js/main.c185e228.chunk.js.map",
     "runtime-main.js": "https://piyu0423.github.io/React-host/static/js/runtime-main.d246af59.js",
     "runtime-main.js.map": "https://piyu0423.github.io/React-host/static/js/runtime-main.d246af59.js.map",
     "static/js/2.52fb1874.chunk.js": "https://piyu0423.github.io/React-host/static/js/2.52fb1874.chunk.js",
     "static/js/2.52fb1874.chunk.js.map": "https://piyu0423.github.io/React-host/static/js/2.52fb1874.chunk.js.map",
     "index.html": "https://piyu0423.github.io/React-host/index.html",
-    "precache-manifest.1902fb54566108295320609586b93437.js": "https://piyu0423.github.io/React-host/precache-manifest.1902fb54566108295320609586b93437.js",
+    "precache-manifest.6f4cb436378715de0ab39ef86accf4a9.js": "https://piyu0423.github.io/React-host/precache-manifest.6f4cb436378715de0ab39ef86accf4a9.js",
     "service-worker.js": "https://piyu0423.github.io/React-host/service-worker.js",
     "static/css/main.2680dfa7.chunk.css.map": "https://piyu0423.github.io/React-host/static/css/main.2680dfa7.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.d246af59.js",
     "static/js/2.52fb1874.chunk.js",
     "static/css/main.2680dfa7.chunk.css",
-    "static/js/main.173bc09f.chunk.js"
+    "static/js/main.c185e228.chunk.js"
   ]
 }
