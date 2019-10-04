@@ -1,10 +1,12 @@
-{ "homepage": "https://piyu0423.github.io/React-host",
+{
+  "homepage": "https://piyu0423.github.io/React-host",
   "name": "React-host",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.2.0"
   },
   "scripts": {
@@ -22,7 +24,7 @@
     "production": [
       ">0.2%",
       "not dead",
-      "not op_mini all" 
+      "not op_mini all"
     ],
     "development": [
       "last 1 chrome version",
