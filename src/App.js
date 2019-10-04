@@ -26,7 +26,7 @@ function App() {
       </ul>
     
      <Route exact path="/" component={Home} />
-      <Route path= {process.env.PUBLIC_URL+"/users"} component={Users} />
+      <Route path= "https://piyu0423.github.io/React-host/users" component={Users} />
       <Route path="/contact" component={Contact} />
 
      
