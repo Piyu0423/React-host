@@ -17,13 +17,13 @@ function App() {
     <div>
       <ul>
         <li>
-          <Link to="/">Home</Link>
+          <Link to={process.env.PUBLIC_URL +"/"}>Home</Link>
         </li>
         <li>
-          <Link to="/React-host/users">Users</Link>
+          <Link to={process.env.PUBLIC_URL +"/users"}>Users</Link>
         </li>
         <li>
-          <Link to="/contact">Contact</Link>
+          <Link to={process.env.PUBLIC_URL +"/contact"}>Contact</Link>
         </li>
       </ul>
     

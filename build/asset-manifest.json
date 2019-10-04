@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "https://piyu0423.github.io/React-host/static/css/main.2680dfa7.chunk.css",
-    "main.js": "https://piyu0423.github.io/React-host/static/js/main.eaa37823.chunk.js",
-    "main.js.map": "https://piyu0423.github.io/React-host/static/js/main.eaa37823.chunk.js.map",
-    "runtime-main.js": "https://piyu0423.github.io/React-host/static/js/runtime-main.d246af59.js",
-    "runtime-main.js.map": "https://piyu0423.github.io/React-host/static/js/runtime-main.d246af59.js.map",
-    "static/js/2.52fb1874.chunk.js": "https://piyu0423.github.io/React-host/static/js/2.52fb1874.chunk.js",
-    "static/js/2.52fb1874.chunk.js.map": "https://piyu0423.github.io/React-host/static/js/2.52fb1874.chunk.js.map",
-    "index.html": "https://piyu0423.github.io/React-host/index.html",
-    "precache-manifest.14432c68ba21a251b2492db895f3c8fc.js": "https://piyu0423.github.io/React-host/precache-manifest.14432c68ba21a251b2492db895f3c8fc.js",
-    "service-worker.js": "https://piyu0423.github.io/React-host/service-worker.js",
-    "static/css/main.2680dfa7.chunk.css.map": "https://piyu0423.github.io/React-host/static/css/main.2680dfa7.chunk.css.map"
+    "main.css": "/React-host/static/css/main.2680dfa7.chunk.css",
+    "main.js": "/React-host/static/js/main.7981e03b.chunk.js",
+    "main.js.map": "/React-host/static/js/main.7981e03b.chunk.js.map",
+    "runtime-main.js": "/React-host/static/js/runtime-main.e1856f9e.js",
+    "runtime-main.js.map": "/React-host/static/js/runtime-main.e1856f9e.js.map",
+    "static/js/2.52fb1874.chunk.js": "/React-host/static/js/2.52fb1874.chunk.js",
+    "static/js/2.52fb1874.chunk.js.map": "/React-host/static/js/2.52fb1874.chunk.js.map",
+    "index.html": "/React-host/index.html",
+    "precache-manifest.2c9e517768d73884471fda5d86ebc56d.js": "/React-host/precache-manifest.2c9e517768d73884471fda5d86ebc56d.js",
+    "service-worker.js": "/React-host/service-worker.js",
+    "static/css/main.2680dfa7.chunk.css.map": "/React-host/static/css/main.2680dfa7.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.d246af59.js",
+    "static/js/runtime-main.e1856f9e.js",
     "static/js/2.52fb1874.chunk.js",
     "static/css/main.2680dfa7.chunk.css",
-    "static/js/main.eaa37823.chunk.js"
+    "static/js/main.7981e03b.chunk.js"
   ]
 }
