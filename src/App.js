@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { HashRouter  as Router, Route, Link } from "react-router-dom";
+import { HashRouter, Route, Link } from "react-router-dom";
 import Home from "./Home";
 import Users from "./Users";
 import Contact from "./Contact";
@@ -13,25 +13,25 @@ function App() {
       </h2>
       <h3>Testing routers in github</h3>
 
-      <Router>
+      <HashRouter basename='React-host/'>
     <div>
       <ul>
         <li>
-          <Link to={process.env.PUBLIC_URL +"/"}>Home</Link>
+          <Link to="/">Home</Link>
         </li>
         <li>
-          <Link to={process.env.PUBLIC_URL +"/users"}>Users</Link>
+          <Link to="/users">Users</Link>
         </li>
         <li>
-          <Link to={process.env.PUBLIC_URL +"/contact"}>Contact</Link>
+          <Link to="/contact">Contact</Link>
         </li>
       </ul>
     
-     <Route exact path={process.env.PUBLIC_URL +"/"} component={Home} />
-      <Route path= {process.env.PUBLIC_URL +"/users"} component={Users} />
-      <Route path={process.env.PUBLIC_URL +"/contact"} component={Contact} />
+     <Route exact path="/" component={Home} />
+      <Route path="/users" component={Users} />
+      <Route path="/contact" component={Contact} />
     </div>
-      </Router>
+      </HashRouter>
     </div>
   );
 }
