@@ -8,8 +8,9 @@ function App() {
   return (
     <div className="App">
       <h2>
-        This is App
+        This is my React-App
       </h2>
+      <h3>Testing routers in github</h3>
       <Router>
     <div>
       <ul>
@@ -25,7 +26,7 @@ function App() {
       </ul>
     
      <Route exact path="/" component={Home} />
-      <Route path="/users" component={Users} />
+      <Route path= {process.env.PUBLIC_URL+"/users"} component={Users} />
       <Route path="/contact" component={Contact} />
 
      
