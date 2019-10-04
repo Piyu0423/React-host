@@ -21,7 +21,7 @@ function App() {
           <Link to="/">Home</Link>
         </li>
         <li>
-          <Link to="/React-host/users">Users</Link>
+          <Link to="/users">Users</Link>
         </li>
         <li>
           <Link to="/contact">Contact</Link>
@@ -29,7 +29,7 @@ function App() {
       </ul>
     
      <Route exact path="/" component={Home} />
-      <Route path= "https://piyu0423.github.io/React-host/users" component={Users} />
+      <Route path= "/users" component={Users} />
       <Route path="/contact" component={Contact} />
     </div>
       </Router>
