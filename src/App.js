@@ -12,29 +12,25 @@ function App() {
         This is my React-App
       </h2>
       <h3>Testing routers in github</h3>
-     
-      {/* <BrowserRouter history={history} basename={process.env.PUBLIC_URL}> */}
 
-      <Router>
-    <div>
-      <ul>
-        <li>
-          <Link to="/">Home</Link>
-        </li>
-        <li>
-          <Link to="/users">Users</Link>
-        </li>
-        <li>
-          <Link to="/contact">Contact</Link>
-        </li>
-      </ul>
-    
-     <Route exact path="/" component={Home} />
-      <Route path= "/users" component={Users} />
-      <Route path="/contact" component={Contact} />
-    </div>
-    {/* </BrowserRouter> */}
-      </Router>
+      <BrowserRouter history={history} basename={process.env.PUBLIC_URL}>
+        <div>
+          <ul>
+            <li>
+              <Link to="/">Home</Link>
+            </li>
+            <li>
+              <Link to="/users">Users</Link>
+            </li>
+            <li>
+              <Link to="/contact">Contact</Link>
+            </li>
+          </ul>
+            <Route exact path="/" component={Home} />
+            <Route path= "/users" component={Users} />
+            <Route path="/contact" component={Contact} />
+        </div>
+        </BrowserRouter>
     </div>
   );
 }
