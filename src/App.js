@@ -5,12 +5,15 @@ import Home from "./Home";
 import Users from "./Users";
 import Contact from "./Contact";
 function App() {
+  console.log(process.env);
   return (
     <div className="App">
       <h2>
         This is my React-App
       </h2>
       <h3>Testing routers in github</h3>
+     
+      
       <Router>
     <div>
       <ul>
@@ -18,7 +21,7 @@ function App() {
           <Link to="/">Home</Link>
         </li>
         <li>
-          <Link to="/users">Users</Link>
+          <Link to="/React-host/users">Users</Link>
         </li>
         <li>
           <Link to="/contact">Contact</Link>
@@ -28,9 +31,6 @@ function App() {
      <Route exact path="/" component={Home} />
       <Route path= "https://piyu0423.github.io/React-host/users" component={Users} />
       <Route path="/contact" component={Contact} />
-
-     
-      
     </div>
       </Router>
     </div>
