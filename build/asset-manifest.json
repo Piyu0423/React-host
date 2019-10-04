@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/React-host/static/css/main.2680dfa7.chunk.css",
-    "main.js": "/React-host/static/js/main.2d138251.chunk.js",
-    "main.js.map": "/React-host/static/js/main.2d138251.chunk.js.map",
-    "runtime-main.js": "/React-host/static/js/runtime-main.e1856f9e.js",
-    "runtime-main.js.map": "/React-host/static/js/runtime-main.e1856f9e.js.map",
-    "static/js/2.52fb1874.chunk.js": "/React-host/static/js/2.52fb1874.chunk.js",
-    "static/js/2.52fb1874.chunk.js.map": "/React-host/static/js/2.52fb1874.chunk.js.map",
-    "index.html": "/React-host/index.html",
-    "precache-manifest.d812da2b22055bba05a065736fcdb343.js": "/React-host/precache-manifest.d812da2b22055bba05a065736fcdb343.js",
-    "service-worker.js": "/React-host/service-worker.js",
-    "static/css/main.2680dfa7.chunk.css.map": "/React-host/static/css/main.2680dfa7.chunk.css.map"
+    "main.css": "https://piyu0423.github.io/React-host/users/static/css/main.2680dfa7.chunk.css",
+    "main.js": "https://piyu0423.github.io/React-host/users/static/js/main.6b3923e4.chunk.js",
+    "main.js.map": "https://piyu0423.github.io/React-host/users/static/js/main.6b3923e4.chunk.js.map",
+    "runtime-main.js": "https://piyu0423.github.io/React-host/users/static/js/runtime-main.0ef3cf4c.js",
+    "runtime-main.js.map": "https://piyu0423.github.io/React-host/users/static/js/runtime-main.0ef3cf4c.js.map",
+    "static/js/2.52fb1874.chunk.js": "https://piyu0423.github.io/React-host/users/static/js/2.52fb1874.chunk.js",
+    "static/js/2.52fb1874.chunk.js.map": "https://piyu0423.github.io/React-host/users/static/js/2.52fb1874.chunk.js.map",
+    "index.html": "https://piyu0423.github.io/React-host/users/index.html",
+    "precache-manifest.951ed29551e35dc37cfb2c1487e9eab7.js": "https://piyu0423.github.io/React-host/users/precache-manifest.951ed29551e35dc37cfb2c1487e9eab7.js",
+    "service-worker.js": "https://piyu0423.github.io/React-host/users/service-worker.js",
+    "static/css/main.2680dfa7.chunk.css.map": "https://piyu0423.github.io/React-host/users/static/css/main.2680dfa7.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.e1856f9e.js",
+    "static/js/runtime-main.0ef3cf4c.js",
     "static/js/2.52fb1874.chunk.js",
     "static/css/main.2680dfa7.chunk.css",
-    "static/js/main.2d138251.chunk.js"
+    "static/js/main.6b3923e4.chunk.js"
   ]
 }

@@ -13,7 +13,8 @@ function App() {
       </h2>
       <h3>Testing routers in github</h3>
      
-      
+      {/* <BrowserRouter history={history} basename={process.env.PUBLIC_URL}> */}
+
       <Router>
     <div>
       <ul>
@@ -32,9 +33,14 @@ function App() {
       <Route path= "/users" component={Users} />
       <Route path="/contact" component={Contact} />
     </div>
+    {/* </BrowserRouter> */}
       </Router>
     </div>
   );
 }
 
 export default App;
+// export default function Routes() {
+//   const history = createHistory({
+//     basename: process.env.PUBLIC_URL,
+//   })}
