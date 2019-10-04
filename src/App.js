@@ -5,7 +5,7 @@ import Home from "./Home";
 import Users from "./Users";
 import Contact from "./Contact";
 function App() {
-  console.log(process.env.PUBLIC_URL);
+ 
   return (
     <div className="App">
       <h2>
