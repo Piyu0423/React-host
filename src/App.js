@@ -13,7 +13,7 @@ function App() {
       </h2>
       <h3>Testing routers in github</h3>
 
-      <HashRouter basename='React-host/'>
+      <HashRouter basename='/'>
     <div>
       <ul>
         <li>
